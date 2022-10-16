@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SPACE_TOURISM/static/css/main.3dc72417.chunk.css",
+    "main.js": "/SPACE_TOURISM/static/js/main.3279b009.chunk.js",
+    "main.js.map": "/SPACE_TOURISM/static/js/main.3279b009.chunk.js.map",
+    "runtime-main.js": "/SPACE_TOURISM/static/js/runtime-main.cb5588fb.js",
+    "runtime-main.js.map": "/SPACE_TOURISM/static/js/runtime-main.cb5588fb.js.map",
+    "static/js/2.a2533df6.chunk.js": "/SPACE_TOURISM/static/js/2.a2533df6.chunk.js",
+    "static/js/2.a2533df6.chunk.js.map": "/SPACE_TOURISM/static/js/2.a2533df6.chunk.js.map",
+    "static/js/3.b9696a2c.chunk.js": "/SPACE_TOURISM/static/js/3.b9696a2c.chunk.js",
+    "static/js/3.b9696a2c.chunk.js.map": "/SPACE_TOURISM/static/js/3.b9696a2c.chunk.js.map",
+    "index.html": "/SPACE_TOURISM/index.html",
+    "static/css/main.3dc72417.chunk.css.map": "/SPACE_TOURISM/static/css/main.3dc72417.chunk.css.map",
+    "static/js/2.a2533df6.chunk.js.LICENSE.txt": "/SPACE_TOURISM/static/js/2.a2533df6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SPACE_TOURISM/static/media/background-home-tablet.bc9efcc3.jpg",
+    "static/media/logo.565f7f2c.svg": "/SPACE_TOURISM/static/media/logo.565f7f2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb5588fb.js",
+    "static/js/2.a2533df6.chunk.js",
+    "static/css/main.3dc72417.chunk.css",
+    "static/js/main.3279b009.chunk.js"
+  ]
+}
